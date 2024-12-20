@@ -29,6 +29,9 @@ Avant d'utiliser le script, voici les étapes de préparation à suivre :
     - Le script vérifie si votre projet est déjà compilé dans le dossier dist. Si ce n'est pas le cas, le script lancera automatiquement la commande yarn run build pour le faire.
     - Il n'est donc pas nécessaire de construire le projet à l'avance, sauf si vous avez des configurations personnalisées spécifiques.
 
+5. **Installer yarn**:
+    - Le script utilise yarn pour compiler votre projet Astro. Assurez-vous que yarn est installé sur votre machine locale. 
+
 ## Utilisation du script
 
 1. Téléchargez le script sur votre machine locale où se trouve votre projet Astro.
