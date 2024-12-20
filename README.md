@@ -32,7 +32,7 @@ Avant d'utiliser le script, voici les étapes de préparation à suivre :
 ## Utilisation du script
 
 1. Téléchargez le script sur votre machine locale où se trouve votre projet Astro.
-2. Exécutez le script sur votre machine locale en SSH. Utilisez la commande suivante depuis le répertoire contenant le script : ./mepAstro.sh
+2. Exécutez le script sur votre machine locale en SSH. Utilisez la commande suivante depuis le répertoire contenant le script : ``` ./mepAstro.sh ```
 3. Répondez aux questions : Le script vous posera plusieurs questions pour s'assurer que les éléments nécessaires sont présents avant de continuer :
 
     - Nom du dossier parent du projet : Le script vérifiera que ce dossier existe.
